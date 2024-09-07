@@ -1,0 +1,80 @@
+{
+  "_H2-BHR796So.js": {
+    "file": "assets/H2-BHR796So.js",
+    "name": "H2",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_ScrittaCorpoPagina-DJsJk7pg.js": {
+    "file": "assets/ScrittaCorpoPagina-DJsJk7pg.js",
+    "name": "ScrittaCorpoPagina",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_VideoFotoIniziale-Cjj6jQm8.js": {
+    "file": "assets/VideoFotoIniziale-Cjj6jQm8.js",
+    "name": "VideoFotoIniziale",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-4EzMehYc.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/Home.jsx",
+      "src/pages/Menuservizi.jsx",
+      "src/pages/Galleria.jsx",
+      "src/pages/Prenota.jsx"
+    ]
+  },
+  "src/pages/Galleria.jsx": {
+    "file": "assets/Galleria-Bn8c-LbJ.js",
+    "name": "Galleria",
+    "src": "src/pages/Galleria.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_VideoFotoIniziale-Cjj6jQm8.js",
+      "_H2-BHR796So.js"
+    ]
+  },
+  "src/pages/Home.jsx": {
+    "file": "assets/Home-9e5Em8yI.js",
+    "name": "Home",
+    "src": "src/pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_H2-BHR796So.js",
+      "_ScrittaCorpoPagina-DJsJk7pg.js",
+      "_VideoFotoIniziale-Cjj6jQm8.js"
+    ]
+  },
+  "src/pages/Menuservizi.jsx": {
+    "file": "assets/Menuservizi-DrKpTgdt.js",
+    "name": "Menuservizi",
+    "src": "src/pages/Menuservizi.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ScrittaCorpoPagina-DJsJk7pg.js",
+      "_VideoFotoIniziale-Cjj6jQm8.js"
+    ]
+  },
+  "src/pages/Prenota.jsx": {
+    "file": "assets/Prenota-NMtJTw6s.js",
+    "name": "Prenota",
+    "src": "src/pages/Prenota.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_VideoFotoIniziale-Cjj6jQm8.js",
+      "_H2-BHR796So.js"
+    ]
+  }
+}
