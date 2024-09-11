@@ -1,4 +1,4 @@
-import{d as r,l as o,j as a}from"./index-4EzMehYc.js";const i=r.h2`
+import{d as r,l as o,j as a}from"./index-D7UB1cEZ.js";const i=r.h2`
   /* text-align: center; */
   /* font-family: "Syncopate", sans-serif; */
   font-size: 2.4rem;

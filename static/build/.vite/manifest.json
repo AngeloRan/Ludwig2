@@ -1,27 +1,27 @@
 {
-  "_H2-BHR796So.js": {
-    "file": "assets/H2-BHR796So.js",
+  "_H2-C5yVouYz.js": {
+    "file": "assets/H2-C5yVouYz.js",
     "name": "H2",
     "imports": [
       "index.html"
     ]
   },
-  "_ScrittaCorpoPagina-DJsJk7pg.js": {
-    "file": "assets/ScrittaCorpoPagina-DJsJk7pg.js",
+  "_ScrittaCorpoPagina-CS_aNgbl.js": {
+    "file": "assets/ScrittaCorpoPagina-CS_aNgbl.js",
     "name": "ScrittaCorpoPagina",
     "imports": [
       "index.html"
     ]
   },
-  "_VideoFotoIniziale-Cjj6jQm8.js": {
-    "file": "assets/VideoFotoIniziale-Cjj6jQm8.js",
+  "_VideoFotoIniziale-D5-7Tonc.js": {
+    "file": "assets/VideoFotoIniziale-D5-7Tonc.js",
     "name": "VideoFotoIniziale",
     "imports": [
       "index.html"
     ]
   },
   "index.html": {
-    "file": "assets/index-4EzMehYc.js",
+    "file": "assets/index-D7UB1cEZ.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -33,48 +33,48 @@
     ]
   },
   "src/pages/Galleria.jsx": {
-    "file": "assets/Galleria-Bn8c-LbJ.js",
+    "file": "assets/Galleria-DHL1b46a.js",
     "name": "Galleria",
     "src": "src/pages/Galleria.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_VideoFotoIniziale-Cjj6jQm8.js",
-      "_H2-BHR796So.js"
+      "_VideoFotoIniziale-D5-7Tonc.js",
+      "_H2-C5yVouYz.js"
     ]
   },
   "src/pages/Home.jsx": {
-    "file": "assets/Home-9e5Em8yI.js",
+    "file": "assets/Home-D-5z8oGK.js",
     "name": "Home",
     "src": "src/pages/Home.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_H2-BHR796So.js",
-      "_ScrittaCorpoPagina-DJsJk7pg.js",
-      "_VideoFotoIniziale-Cjj6jQm8.js"
+      "_H2-C5yVouYz.js",
+      "_ScrittaCorpoPagina-CS_aNgbl.js",
+      "_VideoFotoIniziale-D5-7Tonc.js"
     ]
   },
   "src/pages/Menuservizi.jsx": {
-    "file": "assets/Menuservizi-DrKpTgdt.js",
+    "file": "assets/Menuservizi-YCab3knI.js",
     "name": "Menuservizi",
     "src": "src/pages/Menuservizi.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ScrittaCorpoPagina-DJsJk7pg.js",
-      "_VideoFotoIniziale-Cjj6jQm8.js"
+      "_ScrittaCorpoPagina-CS_aNgbl.js",
+      "_VideoFotoIniziale-D5-7Tonc.js"
     ]
   },
   "src/pages/Prenota.jsx": {
-    "file": "assets/Prenota-NMtJTw6s.js",
+    "file": "assets/Prenota-CA9Z8_rT.js",
     "name": "Prenota",
     "src": "src/pages/Prenota.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_VideoFotoIniziale-Cjj6jQm8.js",
-      "_H2-BHR796So.js"
+      "_VideoFotoIniziale-D5-7Tonc.js",
+      "_H2-C5yVouYz.js"
     ]
   }
 }

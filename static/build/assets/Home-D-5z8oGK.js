@@ -1,4 +1,4 @@
-import{d as n,j as i,L as v,l as o,r as l}from"./index-4EzMehYc.js";import{H as j}from"./H2-BHR796So.js";import{S as z,u as y}from"./ScrittaCorpoPagina-DJsJk7pg.js";import{V as D,F as T}from"./VideoFotoIniziale-Cjj6jQm8.js";const G=n.p`
+import{d as n,j as i,L as v,l as o,r as l}from"./index-D7UB1cEZ.js";import{H as j}from"./H2-C5yVouYz.js";import{S as z,u as y}from"./ScrittaCorpoPagina-CS_aNgbl.js";import{V as D,F as T}from"./VideoFotoIniziale-D5-7Tonc.js";const G=n.p`
   text-align: center;
 
   padding-top: 2rem;

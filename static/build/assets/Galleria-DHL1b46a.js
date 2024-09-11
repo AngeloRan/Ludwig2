@@ -1,4 +1,4 @@
-import{d as i,l as d,r as n,j as t}from"./index-4EzMehYc.js";import{V as g,F as f}from"./VideoFotoIniziale-Cjj6jQm8.js";import{H as x}from"./H2-BHR796So.js";const u=i.div`
+import{d as i,l as d,r as n,j as t}from"./index-D7UB1cEZ.js";import{V as g,F as f}from"./VideoFotoIniziale-D5-7Tonc.js";import{H as x}from"./H2-C5yVouYz.js";const u=i.div`
   position: fixed;
   height: 100vh;
   width: 100vw;
