@@ -13,8 +13,8 @@ def render_vite_assets():
     if settings.VITE_LIVE_SERVER:
         return mark_safe(
             """
-            <script type='module' src='http://localhost:5173/@vite/client'>
-            </script><script type='module' src='http://localhost:5173/src/main.jsx'></script>
+            <script type='module' src='http://0.0.0.0:8000/@vite/client'>
+            </script><script type='module' src='http://0.0.0.0:8000/src/main.jsx'></script>
             """
         )
     manifest_json_path = os.path.join(
