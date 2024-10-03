@@ -9,7 +9,7 @@ const options = {
 };
 
 
-ReactPixel.init('532188439488853', {}, options); // Sostituisci 'YOUR_PIXEL_ID' con l'ID del tuo pixel
+ReactPixel.init('537417442022700', {}, options); // Sostituisci 'YOUR_PIXEL_ID' con l'ID del tuo pixel
 ReactPixel.pageView(); // Traccia una visualizzazione di pagina iniziale
 
 ReactDOM.createRoot(document.getElementById("root")).render(
