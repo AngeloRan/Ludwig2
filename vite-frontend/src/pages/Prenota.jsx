@@ -99,7 +99,7 @@ function Contatti() {
 
   return (
     <>
-      <VideoFotoIniziale tipo="foto" src="static/build/img/imgsfondocontatti.png" />
+      <VideoFotoIniziale tipo="foto" src="static/build/img/IMG_5088.JPG" />
       <DivPrenotazioni>
         <H2 type="prenotazioni">Prenotazioni</H2>
         <DivPrenotazioniModalita>
