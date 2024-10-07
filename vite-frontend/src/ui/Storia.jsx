@@ -358,7 +358,7 @@ function Storia() {
                 quartoStep={quartoStep}
               >
                 <FotoCapitoloPrimo type="seconda" terzoStep={terzoStep}>
-                  <IMG src="static/build/img/logo2.JPG" alt="Foto 2024"></IMG>
+                  <IMG src="static/build/img/IMG_5088.JPG" alt="Foto 2024"></IMG>
                 </FotoCapitoloPrimo>
                 <P
                   type="secondoCapitolo"
@@ -396,7 +396,7 @@ function Storia() {
             </ContainerFotoMobile>
             <ContainerFotoMobile>
               <PictureMobile>
-                <FotoMobile src="static/build/img/logo2.JPG" />
+                <FotoMobile src="static/build/img/IMG_5088.JPG" />
               </PictureMobile>
               <ScrittaMobile>
                 <span>2024</span> Dopo 23 anni, e con l’ingresso dei figli
